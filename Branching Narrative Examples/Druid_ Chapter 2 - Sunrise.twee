@@ -1,0 +1,244 @@
+:: StoryTitle
+Druid: Chapter 2 - Sunrise
+
+
+:: StoryData
+{
+  "ifid": "11D59CC9-7741-4315-8B5B-F98292F883F2",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Chapter 2: Sunrise",
+  "zoom": 1
+}
+
+
+:: <Angry> Maybe a MMA match the way you were carrying on!" {"position":"600,400","size":"100,100"}
+Michael: "What did you think would happen, why did you have to go and mouth off in front of the boys like that" 
+
+Suddenly you both hear a branch snap nearby, and go quiet. Someone is approaching. 
+
+A monk emerges from the mist. 
+
+Strange monk: "Salve! Quid nomen tuum alienigena?" 
+
+[[<Nervous> Ehhm, hello there!]]
+[[<Confused> Are we in Italy?]]
+[[<Remain silent and look to Michael to answer>]]
+
+
+:: <Confront>What is wrong with you, what do you think you are doing! {"position":"200,1200","size":"100,100"}
+The monk grabs you again, you notice a large group of people emerge from the fog. They appear to be changing "serpentium" whatever that means. 
+
+Your gut tells you that you need to leave now. You wriggle free once more and you...
+
+[[<Run>]]
+[[<Freeze>]] 
+
+
+:: <Confused> Are we in Italy? {"position":"400,600","size":"100,100"}
+The monk looks at you bemused, before turning his attention to Michael. 
+
+Strange monk: "Quid nomen tuum alienigena?" 
+
+Michael takes a moment, as if trying to recall some long forgoten knowledge. 
+
+Michael: "My name is Michael, Father." 
+
+Michael: "And this is, (pause) actually I don't know your name". 
+
+[[<Truth> "My name is Etain"]] 
+[[<Lie> "My name is Maria"]] 
+[[<Remain Silent>]]
+
+
+:: <Confused> I don't know, I thought you brought me here? {"position":"400,400","size":"100,100"}
+Michael looks at you bemused, suddenly you both hear a branch snap nearby, and go quiet. Someone is approaching. 
+
+A monk emerges from the mist. 
+
+Strange monk: "Salve! Quid nomen tuum alienigena?" 
+
+[[<Nervous> Ehhm, hello there!]]
+[[<Confused> Are we in Italy?]]
+[[<Remain silent and look to Michael to answer>]]
+
+
+:: <Confused> Is there something I can help you with? {"position":"400,1000","size":"100,100"}
+The Monks eyes narrow his pace quickens towards you. 
+
+Strange Monk: "Puer serpentium purgandus est." (Translation: "You must be cleansed child of snakes".)
+
+You notice a large mob approaching out of the mist, the begin to chant in a chorus. 
+
+Mob: "Sapientia dei nos dirigat."(Translation: "may the wisdom of god guide us.")
+
+Mob: "Maewyn ut dux noster."(Translation: "Maewyn is our guide.")
+
+His pace quickens as he draws a large hook shaped club. It appears he means to attack!
+
+[[<Run>]] (PC does not recieve any additional status effects)
+[[<Confront>What is wrong with you, what do you think you are doing!]] (PC recieves additional injuries.)
+
+
+:: <Freeze> {"position":"400,1500","size":"100,100"}
+You are knocked to the ground once more, this time you don't get back up...
+
+
+
+:: <Investigate> What am I wearing that could have upset him? {"position":"800,1000","size":"100,100"}
+The Monks eyes narrow, as he looks closer at you he notices your pendant. 
+
+Strange Monk: "Puer serpentium purgandus est." (Translation: "You must be cleansed child of snakes".)
+
+You notice a large mob approaching out of the mist, the begin to chant in a chorus. 
+
+Mob: "Sapientia dei nos dirigat."(Translation: "may the wisdom of god guide us.")
+
+Mob: "Maewyn ut dux noster."(Translation: "Maewyn is our guide.")
+
+His pace quickens as he draws a large hook shaped club. It appears he means to attack!
+
+[[<Run>]] (PC does not recieve any additional status effects)
+[[<Confront>What is wrong with you, what do you think you are doing!]] (PC recieves additional injuries.)
+
+
+:: <Keep running> {"position":"600,1500","size":"100,100"}
+You run out of breath, the monk catches up to you now joined by a mob. You are captured and black out. perhaps this is the end of your journey? 
+
+
+:: <Lie> "My name is Maria" {"position":"400,800","size":"100,100"}
+Michael: "You don't look like a Maria" he says suspiciously. (-1 Reputation with Michael)
+
+Strange Monk: "Michael et Maria filii dei tunc es!" (Translation: Michael and Mary, you are children of god then!) 
+
+Strange Monk: "Nomen meum Maewyn est" as he gestures to himself. (Translation: My name is Maewyn)
+
+He begins to approach you, when suddenly his eyes narrow as if he has noticed something about your appearance.
+
+[[<Confused> Is there something I can help you with?]]
+[[<Investigate> What am I wearing that could have upset him?]]
+
+
+
+:: <Lie> "My name is Maria, Maria is anim dom" {"position":"900,1700","size":"100,100"}
+
+
+
+:: <Nervous> Ehhm, hello there! {"position":"600,600","size":"100,100"}
+The monk gestures as if acknolwdging your words, before turning to Michael and repeating. 
+
+Strange monk: "Quid nomen tuum alienigena?" 
+
+Michael takes a moment, as if trying to recall some long forgoten knowledge. 
+
+Michael: "My name is Michael, Father." 
+
+Michael: "And this is, (pause) actually I don't know your name". 
+
+[[<Truth> "My name is Etain"]] 
+[[<Lie> "My name is Maria"]] 
+[[<Remain Silent>]]
+
+
+
+:: <Observant> Not in Dublin anymore I guess, it's too quiet here. {"position":"800,400","size":"100,100"}
+Michael: "No shit Sherlock" he says sarcastically.  
+
+Suddenly you both hear a branch snap nearby, and go quiet. Someone is approaching. 
+
+A monk emerges from the mist. 
+
+Strange monk: "Salve! Quid nomen tuum alienigena?" 
+
+[[<Nervous> Ehhm, hello there!]]
+[[<Confused> Are we in Italy?]]
+[[<Remain silent and look to Michael to answer>]]
+
+
+:: <Remain Silent> {"position":"800,800","size":"100,100"}
+Michael: "Giving me the cold shoulder, to be expected I suppose". 
+
+Strange Monk: "Michael filii dei tunc es!" (Translation: Michael, you are child of god then!) 
+
+Strange Monk: "Nomen meum Maewyn est" as he gestures to himself. (Translation: My name is Maewyn)
+
+He begins to approach you, when suddenly his eyes narrow as if he has noticed something about your appearance.
+
+[[<Confused> Is there something I can help you with?]]
+[[<Investigate> What am I wearing that could have upset him?]]
+
+
+:: <Remain silent and look to Michael to answer> {"position":"800,600","size":"100,100"}
+Michael takes a moment, as if trying to recall some long forgoten knowledge. 
+
+Michael: "My name is Michael, Father." 
+
+Michael: "And this is, (pause) actually I don't know your name". 
+
+[[<Truth> "My name is Etain"]] 
+[[<Lie> "My name is Maria"]] 
+[[<Remain Silent>]]
+
+
+
+:: <Run> {"position":"600,1200","size":"100,100"}
+You are running, however still in pain from your last encounter your pace appears to be slowing. 
+
+The monk is gaining on you..
+
+Sudenly you hear the sound of a horse galloping towards you, a man dressed in what appears to be reenactment clothing extends a hand towards you, appearing concerned for your safety". 
+
+Rider: "Tóg mo lámh!" (Translation: Take my hand)
+
+[[<Take his hand>]] 
+[[<Keep running>]]
+
+
+
+:: <Take his hand> {"position":"800,1500","size":"100,100"}
+You take the riders hand, he hoists you up on to his horse and you gallop away. 
+
+As you ride away, he tries to make some conversation. 
+
+Rider: "Cad is Anim duit?" (Translation: What is your name?)
+
+You recognise the language that you learned in school, you respond with. 
+
+[[<Truth> "My name is Etain, I mean Etain is anim dom!"]] (+5 Relationship)
+[[<Lie> "My name is Maria, Maria is anim dom"]] (+1 Relationship)
+
+
+:: <Truth> "My name is Etain" {"position":"600,800","size":"100,100"}
+The Monks eyes narrow, as he looks closer at you he notices your pendant. 
+
+Strange Monk: "Puer serpentium purgandus est." (Translation: "You must be cleansed child of snakes".)
+
+You notice a large mob approaching out of the mist, the begin to chant in a chorus. 
+
+Mob: "Sapientia dei nos dirigat."(Translation: "may the wisdom of god guide us.")
+
+Mob: "Maewyn ut dux noster."(Translation: "Maewyn is our guide.")
+
+His pace quickens as he draws a large hook shaped club. It appears he means to attack!
+
+[[<Run>]] (PC does not recieve any additional status effects)
+[[<Confront>What is wrong with you, what do you think you are doing!]] (PC recieves additional injuries.)
+[[<Investigate> What am I wearing that could have upset him?]] (PC recieves additional injuries.)
+
+
+:: <Truth> "My name is Etain, I mean Etain is anim dom!" {"position":"700,1700","size":"100,100"}
+
+
+
+:: Chapter 2: Sunrise {"position":"600,200","size":"100,100"}
+You awaken to the sound of someone screaming out, you get up off the ground and take a moment to get your bearings. 
+
+You are at the entrance to what appears to be a large grassey mound, surrounded by standing stones, you also see the person that attacked you. 
+
+No longer filled with anger, instead he appears anxious and panicked. He notices you are awake, and directs his attention to you. 
+
+Michael: "What is going on, where the bleedin hell are we!" 
+
+[[<Observant> Not in Dublin anymore I guess, it's too quiet here.]]
+[[<Confused> I don't know, I thought you brought me here?]]
+[[<Angry> Maybe a MMA match the way you were carrying on!"]]

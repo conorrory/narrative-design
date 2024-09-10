@@ -1,0 +1,226 @@
+:: StoryTitle
+Druid: Chapter 1 - Intervention
+
+
+:: StoryData
+{
+  "ifid": "52794502-43AD-4CB7-AACA-F425EF2860F8",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Chapter 1: Intervention",
+  "zoom": 1
+}
+
+
+:: <Bargain> "Leave the poor fella alone, he probably doesn’t have anything on him anyway” {"position":"600,1100","size":"100,100"}
+Success: The worker is let go...
+
+Michael: 
+“Oh so you want to take his place, how noble of you." 
+(He turns and gestures to the delivery worker) 
+
+"Get out of here!" 
+(The worker runs away as fast as he can, before attention is turned back to you) 
+
+"Now empty your bag and give me a look at you.”
+
+[[<Run> (The distraction should allow the worker to escape)]]
+[[<Fight>“I’m not afraid of you”]]  
+
+
+:: <Fight> "I’m not leaving him with you, now leave him alone or else" {"position":"600,1400","size":"100,100"}
+(He instantly strikes you, knocking you to the ground - what were you thinking) 
+
+Michael: “How do you like that, I’m going to beat the living daylights out of you”. 
+
+You...
+
+[[Get up and run]]
+[[Continue to fight back]]
+
+
+:: <Fight>“I’m not afraid of you” {"position":"900,1400","size":"100,100"}
+(He instantly strikes you, knocking you to the ground - what were you thinking) 
+
+Michael: “How do you like that, I’m going to beat the living daylights out of you”. 
+
+You...
+
+[[Get up and run]]
+[[Continue to fight back]]
+
+
+:: <Run> (The distraction should allow the worker to escape) {"position":"400,1200","size":"100,100"}
+(The PC runs while pursued by Michael and his gang of thugs)
+
+Michael: 
+
+“Where do you think you are going”.
+
+[[Run for your life]]
+
+
+
+:: <Say nothing, put your head down and keep walking> {"position":"200,800","size":"100,100"}
+Michael: 
+
+“That's what I thought, you bleedin melt” 
+
+PC: 
+
+[[<You turn and throw something at the thug>]] (-2 Relationship)
+[[<Walk away>]]
+
+
+:: <Walk away> {"position":"300,1600","size":"100,100"}
+[Secret bad ending] 
+
+(The background blurs as the character walks away and the thugs begin to beat the delivery worker, transition to a newspaper frontpage headline - Delivery worker in intensive care) 
+
+PC: “Why didn’t I help”.
+
+(Fade to black, roll credits.) 
+
+^^End of Scene^^
+
+
+:: <You turn and throw something at the thug> {"position":"400,900","size":"100,100"}
+You notice a stone on the ground, you pick it up and throw it at the thug. It strikes him in the shoulder.
+
+The crowd cheers and goads the thug. 
+
+Hooligan: "You can't let her to that to you now Michael."
+
+Michael: "I'm going to teach you a lesson."
+
+PC: 
+[[<Run> (The distraction should allow the worker to escape)]]
+[[<Fight>“I’m not afraid of you”]]  
+
+
+:: A prick with a face a mother couldn’t love {"position":"900,800","size":"100,100"}
+Michael:  (His facial expression clearly furious) 
+
+“C’mere to me, can’t have a ride like you disrespecting me on front of the lads, time I put you in your place” 
+
+PC: 
+[[<Run> (The distraction should allow the worker to escape)]]
+[[<Fight>“I’m not afraid of you”]]  
+
+
+
+:: Chapter 1: Intervention {"position":"575,275","size":"100,100"}
+You are on your way to the bus, it is getting dark and you feel uneasy as you quicken your pace. 
+
+You notice a group of thugs surrounding a delivery worker, a shakedown is underway and the delivery worker appears anxious and fearful. The ring leader threatens him with slurs and gestures to hand over his money.
+
+[[I should help]] 
+[[I shouldn't get involved]] 
+
+
+
+:: Continue to fight back {"position":"900,1600","size":"100,100"}
+Michael: 
+
+"Get back down there" (He knocks you down again, this time you do not get back up as you black out.)
+
+<Your Journey is Over>
+
+[Bad ending]
+
+
+:: End of Scene {"position":"600,1725","size":"100,100"}
+Go back to the start? 
+
+[[Chapter 1: Intervention]] 
+
+
+
+:: Get up and run {"position":"400,1400","size":"100,100"}
+Michael: 
+
+“Oh I am going to enjoy this” (Gives chase to PC).
+
+[[Run for your life]]
+
+
+
+:: I should help {"position":"300,400","size":"100,100"}
+Player: 
+
+You approach, a hooded figure with a menacing expression and face covering stands out under the streetlight
+
+[[Listen to what is happening]]
+[[I shouldn't get involved]]
+
+
+:: I shouldn't get involved {"position":"800,400","size":"100,100"}
+Player: 
+
+As you walk away you hear the worker pleading for help. You decide to...
+
+[[<Say nothing, put your head down and keep walking>]] 
+[[Run to the aid of the worker]]
+
+
+:: Listen to what is happening {"position":"300,600","size":"100,100"}
+Michael: (Directing his attention to the delivery worker)
+
+Who do you think you are, coming over here and taking our jobs, (pause) empty your pockets then fuck off back to your own country, this one is full!
+
+[[You look on with discust]]
+[[I shouldn't get involved]]
+
+
+:: Run for your life {"position":"600,1600","size":"100,100"}
+While running, you spot a stone monument, it’s poorly lit and a potential hiding spot. 
+
+You attempt to take shelter and hide, unfortunately Michael has caught up to you. He grabs you and throws them against the stone. 
+
+You feel a surge of pain as a wound opens on your hand, 
+
+He grabs you again, you try to steady yourself and place your hand on the stone. 
+
+There is a feeling of falling and wind blowing past. It is suddenly daylight,
+
+You look at Michael confused, before passing out...
+
+[[End of Scene]]
+
+
+:: Run to the aid of the worker {"position":"800,600","size":"100,100"}
+Player: You arrive and see the delivery worker being robbed and abused.
+
+You...
+
+[[You look on with discust]]
+[[<Say nothing, put your head down and keep walking>]] 
+
+
+:: Would you ever leave him alone {"position":"600,800","size":"100,100"}
+Michael: 
+
+“Get a load of this one, run along now or I’ll burst you!” 
+
+[[<Bargain> "Leave the poor fella alone, he probably doesn’t have anything on him anyway”]] (+1 Relationship)
+[[<Fight> "I’m not leaving him with you, now leave him alone or else"]] (-1 Relationship)
+[[<Say nothing, put your head down and keep walking>]]
+
+
+
+
+:: You look on with discust {"position":"500,600","size":"100,100"}
+The crowd notices you.
+
+Hooligan: "Hey Michael, that one is staring you out of it."
+
+Michael: (Turns his attention towards PC)
+
+“What are you looking at, fuck off home before I make a mess of that face of yours”.
+
+PC: 
+
+[[Would you ever leave him alone]]
+[[A prick with a face a mother couldn’t love]]
+[[<Say nothing, put your head down and keep walking>]]
+
